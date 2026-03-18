@@ -32,8 +32,9 @@
 
 ## 📫 How to Reach Me
 - Email: **subrahmanyeswarkolluru@gmail.com**  
-- LinkedIn: [www.linkedin.com/in/subrahmanyeswar-kolluru-914694293]
-- Instagram: [subrahmanyeswar_kolluru]
+- LinkedIn: www.linkedin.com/in/subrahmanyeswar-kolluru-914694293
+- Instagram: subrahmanyeswar_kolluru
+- HuggingFace: https://subrahmanyeswar.vercel.app/
 
 ## ⚡ Professional Note
 I believe AI is not just about innovation — it’s about creating **scalable, impactful solutions** that bridge technology and real-world needs.  
