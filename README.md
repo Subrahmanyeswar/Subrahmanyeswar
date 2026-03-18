@@ -154,7 +154,7 @@ Kalasalingam Academy of Research and Education (KARE), Virudhunagar, Tamil Nadu
 
 - Building and shipping production AI systems
 - Exploring multi-agent orchestration and agentic workflows
-- Open to **AI Engineer** and **ML Engineer** roles for 2026–2027
+- Open to **AI Engineer** roles for 2026–2027
 
 ---
 
